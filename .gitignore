@@ -1,0 +1,11 @@
+data/*
+data/./data/*
+m5-forecasting-accuracy.zip
+data/
+.vscode/
+__pycache__/
+submissions/
+submissions/*
+.vscode
+__pycache__
+submissions
